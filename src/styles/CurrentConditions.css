@@ -1,0 +1,131 @@
+.noweather
+{
+  background-image:url('https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+.clear
+{
+  height: 100%;
+  background-image:url('https://gifspro.com/wp-content/uploads/2018/06/Coconut-Palm-01.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  top:0;
+  left:0;
+  position: fixed;
+  width: 100%;
+}
+.sunny
+{
+  background-image:url('https://media.giphy.com/media/xTcnSZUI0JgodzMZoI/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+.rain
+{
+  background-image:url('https://media.giphy.com/media/Mgq7EMQUrhcvC/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+.clouds
+{
+  background-image:url('https://media.giphy.com/media/10539PNHnSuPTi/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+.thunderstorm
+{
+  background-image:url('https://media.giphy.com/media/13yRt1Co2UMhRC/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+.drizzle
+{
+  background-image:url('https://media.giphy.com/media/3rXPaeFZOUWNW/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+
+.Snow
+{
+  background-image:url('https://media.giphy.com/media/N7ZiLbtDr84Yo/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+
+.atmos 
+{
+  background-image:url('https://media.giphy.com/media/LmC5rpntvJPxe/giphy.gif');
+  position: fixed;
+  background-size: cover;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+}
+
+.RoundedButton {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
+
+.InputText{
+  border-radius: 6px;
+  font-size: 16px;
+  text-align: center;
+  align-self: center;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  width: 20%;
+    border: 0;
+    font-family: inherit;
+    padding: 12px 0;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 500;
+    border-bottom: 2px solid #C8CCD4;
+    background: none;
+    border-radius: 0;
+    color: #223254;
+    transition: all .15s ease;
+}
+.Cell {
+  padding: 4px;
+  text-align: left;
+}
